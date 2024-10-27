@@ -33,7 +33,7 @@ A KiCad plugin that allows you to easily import parts (symbols, footprints, and 
    Start KiCad and open the PCB editor. Run the plugin once to initialize.
 
 5. **Setup Part Libraries**  
-   Follow the instructions for `easyeda2kicad` to configure the new part libraries in KiCad.
+   Follow the instructions for [easyeda2kicad](https://github.com/uPesy/easyeda2kicad.py) to configure the new part libraries in KiCad.
 
 ---
 
